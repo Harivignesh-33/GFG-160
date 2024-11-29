@@ -1,12 +1,4 @@
-// Add binary strings 
-//{ Driver Code Starts
-// Initial Template for Java
-
 // ? Add binary strings
-// } Driver Code Ends
-
-
-// User function Template for Java
 
 class Solution {
     public String addBinary(String s1, String s2) {
