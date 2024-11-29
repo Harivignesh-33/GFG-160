@@ -1,4 +1,4 @@
-// ? Add binary strings
+// ? Add binary stringss
 
 class Solution {
     public String addBinary(String s1, String s2) {
