@@ -12,6 +12,31 @@ Welcome to my journey of mastering Data Structures and Algorithms with **Geeksfo
 
 The **160 Days DSA Challenge** is a systematic approach to strengthening problem-solving skills by tackling curated problems across different topics:
 
+## 📚 Topics
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Arrays-ff6347" alt="Arrays Badge"/>
+  <img src="https://img.shields.io/badge/-Strings-1e90ff" alt="Strings Badge"/>
+  <img src="https://img.shields.io/badge/-Sorting-32cd32" alt="Sorting Badge"/>
+  <img src="https://img.shields.io/badge/-Searching-ff1493" alt="Searching Badge"/>
+  <img src="https://img.shields.io/badge/-Matrix-ffd700" alt="Matrix Badge"/>
+  <img src="https://img.shields.io/badge/-Hashing-8a2be2" alt="Hashing Badge"/>
+  <img src="https://img.shields.io/badge/-Two%20Pointer%20Technique-da70d6" alt="Two Pointer Badge"/>
+  <img src="https://img.shields.io/badge/-Prefix%20Sum-ff8c00" alt="Prefix Sum Badge"/>
+  <img src="https://img.shields.io/badge/-Linked%20List-20b2aa" alt="Linked List Badge"/>
+  <img src="https://img.shields.io/badge/-Backtracking-ff4500" alt="Backtracking Badge"/>
+  <img src="https://img.shields.io/badge/-Trees-2e8b57" alt="Trees Badge"/>
+  <img src="https://img.shields.io/badge/-Heap-9932cc" alt="Heap Badge"/>
+  <img src="https://img.shields.io/badge/-Stack-ff00ff" alt="Stack Badge"/>
+  <img src="https://img.shields.io/badge/-Queue%20and%20Deque-6495ed" alt="Queue and Deque Badge"/>
+  <img src="https://img.shields.io/badge/-Dynamic%20Programming%20(DP)-dc143c" alt="DP Badge"/>
+  <img src="https://img.shields.io/badge/-Greedy-8b0000" alt="Greedy Badge"/>
+  <img src="https://img.shields.io/badge/-Graphs-00fa9a" alt="Graphs Badge"/>
+  <img src="https://img.shields.io/badge/-Tries-ff7f50" alt="Tries Badge"/>
+  <img src="https://img.shields.io/badge/-Bit%20Manipulation-20b2aa" alt="Bit Manipulation Badge"/>
+</div>
+
+---
 ### **✨ Topics Include:**  
 
 - 💡 **Strings(Days 1–13)** & **Arrays(Days 14–20)**  
@@ -67,31 +92,6 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 
 ---
 
-## 📚 Topics
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/-Arrays-ff6347" alt="Arrays Badge"/>
-  <img src="https://img.shields.io/badge/-Strings-1e90ff" alt="Strings Badge"/>
-  <img src="https://img.shields.io/badge/-Sorting-32cd32" alt="Sorting Badge"/>
-  <img src="https://img.shields.io/badge/-Searching-ff1493" alt="Searching Badge"/>
-  <img src="https://img.shields.io/badge/-Matrix-ffd700" alt="Matrix Badge"/>
-  <img src="https://img.shields.io/badge/-Hashing-8a2be2" alt="Hashing Badge"/>
-  <img src="https://img.shields.io/badge/-Two%20Pointer%20Technique-da70d6" alt="Two Pointer Badge"/>
-  <img src="https://img.shields.io/badge/-Prefix%20Sum-ff8c00" alt="Prefix Sum Badge"/>
-  <img src="https://img.shields.io/badge/-Linked%20List-20b2aa" alt="Linked List Badge"/>
-  <img src="https://img.shields.io/badge/-Backtracking-ff4500" alt="Backtracking Badge"/>
-  <img src="https://img.shields.io/badge/-Trees-2e8b57" alt="Trees Badge"/>
-  <img src="https://img.shields.io/badge/-Heap-9932cc" alt="Heap Badge"/>
-  <img src="https://img.shields.io/badge/-Stack-ff00ff" alt="Stack Badge"/>
-  <img src="https://img.shields.io/badge/-Queue%20and%20Deque-6495ed" alt="Queue and Deque Badge"/>
-  <img src="https://img.shields.io/badge/-Dynamic%20Programming%20(DP)-dc143c" alt="DP Badge"/>
-  <img src="https://img.shields.io/badge/-Greedy-8b0000" alt="Greedy Badge"/>
-  <img src="https://img.shields.io/badge/-Graphs-00fa9a" alt="Graphs Badge"/>
-  <img src="https://img.shields.io/badge/-Tries-ff7f50" alt="Tries Badge"/>
-  <img src="https://img.shields.io/badge/-Bit%20Manipulation-20b2aa" alt="Bit Manipulation Badge"/>
-</div>
-
----
 
 ## 🌟 Why Join the Challenge?  
 
