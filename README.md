@@ -1,6 +1,7 @@
-# 🚀 GeeksforGeeks 160 Days Problem-Solving Challenge 💻  
+# 🚀GeeksforGeeks 160 Days Problem-Solving Challenge💻  
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)  ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue)  ![Challenge Progress](https://img.shields.io/badge/Progress-6%25-brightgreen)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)  ![GitHub repo stars](https://img.shields.io/github/stars/Harivignesh-33/GFG-160?style=social)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-blue)](https://www.geeksforgeeks.org/user/harivigne0ic2/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://linkedin.com/in/-hari-k)
  
 
 Welcome to my journey of mastering Data Structures and Algorithms with **GeeksforGeeks' 160 Days Problem-Solving Challenge**! 🌟 This repository documents my daily progress, solutions, and insights gained along the way.
@@ -68,13 +69,178 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 
 ## 📚 Key Learnings  
 
-- **Arrays**:  
-  - Optimizing search problems **Second largest element**.  
+## 📚 Topics
+
+<details>
+  <summary>Arrays</summary>
+  
+  ![Arrays](https://img.shields.io/badge/Topic-Arrays-ff6347)  
+  - Optimizing search problems like **Second largest element**.  
   - Handling large data efficiently through sorting and sliding window techniques.  
 
-- **Strings**:  
+</details>
+
+<details>
+  <summary>Strings</summary>
+  
+  ![Strings](https://img.shields.io/badge/Topic-Strings-1e90ff)  
   - Efficiently handling string manipulation using `StringBuilder`.  
   - Tackling edge cases in problems like converting strings to integers (`Atoi`).  
+
+</details>
+
+<details>
+  <summary>Sorting</summary>
+  
+  ![Sorting](https://img.shields.io/badge/Topic-Sorting-32cd32)  
+  - Implementing and optimizing different sorting algorithms.  
+  - Understanding time complexities and when to use each sorting technique.  
+
+</details>
+
+<details>
+  <summary>Searching</summary>
+  
+  ![Searching](https://img.shields.io/badge/Topic-Searching-ff1493)  
+  - Applying binary search for fast lookups.  
+  - Optimizing search problems with hash maps.  
+
+</details>
+
+<details>
+  <summary>Matrix</summary>
+  
+  ![Matrix](https://img.shields.io/badge/Topic-Matrix-ffd700)  
+  - Traversing matrices efficiently.  
+  - Solving problems like **Spiral Matrix** and **Matrix Multiplication**.  
+
+</details>
+
+<details>
+  <summary>Hashing</summary>
+  
+  ![Hashing](https://img.shields.io/badge/Topic-Hashing-8a2be2)  
+  - Using hash maps to solve problems like **Two Sum**.  
+  - Solving anagrams and frequency-based problems with hashing.  
+
+</details>
+
+<details>
+  <summary>Two Pointer Technique</summary>
+  
+  ![Two Pointer](https://img.shields.io/badge/Topic-Two%20Pointer%20Technique-da70d6)  
+  - Optimizing problems with two pointers, such as **Trapping Rainwater**.  
+  - Sliding window problems with a constant or dynamic window size.  
+
+</details>
+
+<details>
+  <summary>Prefix Sum</summary>
+  
+  ![Prefix Sum](https://img.shields.io/badge/Topic-Prefix%20Sum-ff8c00)  
+  - Precomputing sums for optimized range sum queries.  
+  - Solving subarray sum problems using prefix sums.  
+
+</details>
+
+<details>
+  <summary>Linked List</summary>
+  
+  ![Linked List](https://img.shields.io/badge/Topic-Linked%20List-20b2aa)  
+  - Reversing and merging linked lists.  
+  - Solving problems like **Detecting a Cycle in a Linked List**.  
+
+</details>
+
+<details>
+  <summary>Backtracking</summary>
+  
+  ![Backtracking](https://img.shields.io/badge/Topic-Backtracking-ff4500)  
+  - Solving problems like **N-Queens** and **Sudoku Solver**.  
+  - Generating all possible combinations and permutations.  
+
+</details>
+
+<details>
+  <summary>Trees</summary>
+  
+  ![Trees](https://img.shields.io/badge/Topic-Trees-2e8b57)  
+  - Traversing trees using different methods (in-order, pre-order, post-order).  
+  - Solving problems like **Lowest Common Ancestor** and **Binary Tree Paths**.  
+
+</details>
+
+<details>
+  <summary>Heap</summary>
+  
+  ![Heap](https://img.shields.io/badge/Topic-Heap-9932cc)  
+  - Using heaps for problems like **Kth Largest Element**.  
+  - Implementing priority queues and solving problems using heaps.  
+
+</details>
+
+<details>
+  <summary>Stack</summary>
+  
+  ![Stack](https://img.shields.io/badge/Topic-Stack-ff00ff)  
+  - Solving problems like **Valid Parentheses** and **Evaluate Reverse Polish Notation**.  
+  - Implementing custom stack solutions for specific use cases.  
+
+</details>
+
+<details>
+  <summary>Queue and Deque</summary>
+  
+  ![Queue](https://img.shields.io/badge/Topic-Queue%20and%20Deque-6495ed)  
+  - Implementing queues using arrays or linked lists.  
+  - Solving sliding window problems using deque.  
+
+</details>
+
+<details>
+  <summary>Dynamic Programming (DP)</summary>
+  
+  ![DP](https://img.shields.io/badge/Topic-Dynamic%20Programming%20(DP)-dc143c)  
+  - Solving problems like **Knapsack** and **Longest Increasing Subsequence**.  
+  - Understanding optimal substructure and overlapping subproblems.  
+
+</details>
+
+<details>
+  <summary>Greedy</summary>
+  
+  ![Greedy](https://img.shields.io/badge/Topic-Greedy-8b0000)  
+  - Solving problems like **Activity Selection** and **Fractional Knapsack**.  
+  - Optimizing greedy solutions for maximum/minimum results.  
+
+</details>
+
+<details>
+  <summary>Graphs</summary>
+  
+  ![Graphs](https://img.shields.io/badge/Topic-Graphs-00fa9a)  
+  - Implementing graph traversal techniques like BFS and DFS.  
+  - Solving shortest path problems using **Dijkstra’s** algorithm.  
+
+</details>
+
+<details>
+  <summary>Tries</summary>
+  
+  ![Tries](https://img.shields.io/badge/Topic-Tries-ff7f50)  
+  - Implementing a trie for efficient prefix-based search.  
+  - Solving problems like **Word Search** and **Autocomplete**.  
+
+</details>
+
+<details>
+  <summary>Bit Manipulation</summary>
+  
+  ![Bit Manipulation](https://img.shields.io/badge/Topic-Bit%20Manipulation-20b2aa)  
+  - Solving problems like **Single Number** and **Bitwise AND/OR**.  
+  - Optimizing solutions with bitwise operations.  
+
+</details>
 
 ---
 
