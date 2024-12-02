@@ -68,7 +68,6 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 ---
 
 ## 📚 Key Learnings  
-
 <details>
   <summary>Arrays</summary>
   
