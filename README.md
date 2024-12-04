@@ -89,6 +89,7 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 17   | Non repeating character           | String              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/String/uniq.java)
 | Day 18   | Search Pattern KMP algo           | String              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/String/Search_Pattern.java)
 | Day 19   | Min Chars to Add for Palindrome   | String              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/String/MinChar_palin.java)
+| Day 19   | Strings Rotations of Each Other   | String              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/String/String_rotation.java)
 
 
 ---
