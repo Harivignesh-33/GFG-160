@@ -90,7 +90,8 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 18   | Search Pattern KMP algo           | String              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/String/Search_Pattern.java)
 | Day 19   | Min Chars to Add for Palindrome   | String              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/String/MinChar_palin.java)
 | Day 20   | Strings Rotations of Each Other   | String              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/String/String_rotation.java)
-| Day 21   | Strings Rotations of Each Other   | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Sort0_1_2.Java)
+| Day 21   | Sort 0s, 1s and 2s                | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Sort0_1_2.Java)
+| Day 22   | 𝗙𝗶𝗻𝗱 𝗛-𝗜𝗻𝗱𝗲𝘅                      | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/find_h_index.java)
 
 
 ---
