@@ -92,8 +92,8 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 20   | Strings Rotations of Each Other   | String              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/String/String_rotation.java)
 | Day 21   | Sort 0s, 1s and 2s                | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Sort0_1_2.Java)
 | Day 22   | Find H index                      | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/find_h_index.java)
-| Day 23   | Count Inversions                  | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/find_h_index.java)
-| Day 24   | Overlaping_intervals               | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/find_h_index.java)
+| Day 23   | Count Inversions                  | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Count_inversion.java)
+| Day 24   | Overlaping_intervals               | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Overlaping_intervel.java)
 
 
 ---
