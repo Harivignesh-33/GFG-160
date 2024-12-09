@@ -1,6 +1,6 @@
 # 🚀GeeksforGeeks 160 Days Problem-Solving Challenge💻  
 
-![Java](https://img.shields.io/badge/Language-Java-orange)  ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue)  ![Challenge Progress](https://img.shields.io/badge/Progress-13.3%25-brightgreen)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)  ![GitHub repo stars](https://img.shields.io/github/stars/Harivignesh-33/GFG-160?style=social)
+![Java](https://img.shields.io/badge/Language-Java-orange)  ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue)  ![Challenge Progress](https://img.shields.io/badge/Progress-15.635%25-brightgreen)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)  ![GitHub repo stars](https://img.shields.io/github/stars/Harivignesh-33/GFG-160?style=social)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-blue)](https://www.geeksforgeeks.org/user/harivigne0ic2/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://linkedin.com/in/-hari-k)
  
 
