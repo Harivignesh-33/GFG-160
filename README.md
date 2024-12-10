@@ -95,7 +95,7 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 23   | Count Inversions                  | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Count_inversion.java)
 | Day 24   | Overlaping_intervals              | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Overlaping_intervals.java)
 | Day 25   | Insert_intervals                  | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Insert_interval.java)
-| Day 25   | Non_Overlaping_intervals          | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Non_overlaping_interval.java)
+| Day 26   | Non_Overlaping_intervals          | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Non_overlaping_interval.java)
 
 
 ---
