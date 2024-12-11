@@ -1,6 +1,6 @@
 # 🚀GeeksforGeeks 160 Days Problem-Solving Challenge💻  
 
-![Java](https://img.shields.io/badge/Language-Java-orange)  ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue)  ![Challenge Progress](https://img.shields.io/badge/Progress-15.635%25-brightgreen)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)  ![GitHub repo stars](https://img.shields.io/github/stars/Harivignesh-33/GFG-160?style=social)
+![Java](https://img.shields.io/badge/Language-Java-orange)  ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue)  ![Challenge Progress](https://img.shields.io/badge/Progress-17.35%25-brightgreen)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)  ![GitHub repo stars](https://img.shields.io/github/stars/Harivignesh-33/GFG-160?style=social)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-blue)](https://www.geeksforgeeks.org/user/harivigne0ic2/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue)](https://linkedin.com/in/-hari-k)
  
 
@@ -96,6 +96,7 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 24   | Overlaping_intervals              | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Overlaping_intervals.java)
 | Day 25   | Insert_intervals                  | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Insert_interval.java)
 | Day 26   | Non_Overlaping_intervals          | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Non_overlaping_interval.java)
+| Day 27   | Merge without extra space         | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Merge_without_exSpace.java)
 
 
 ---
