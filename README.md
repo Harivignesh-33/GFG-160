@@ -98,6 +98,7 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 26   | Non_Overlaping_intervals          | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Non_overlaping_interval.java)
 | Day 27   | Merge without extra space         | Sorting              |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Sorting/Merge_without_exSpace.java)
 | Day 28   | Number of occurrence              | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/NoOfOccurence.java)
+| Day 29   | Sorted and Rotated Minimum        | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/NoOfOccurence.java)
 
 
 ---
