@@ -102,8 +102,8 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 28   | Number of occurrence              | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/NoOfOccurence.java)
 | Day 29   | Sorted and Rotated Minimum        | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/SortandRotatedMin.java)
 | Day 30   | Search in Rotated Sorted Array    | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/SearchinRSorted.java)
-| Day 30   | Peak Element                      | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/PeakElement.java)
-| Day 31   | K-th element of two Arrays        | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/KthElementofTwoArr.java)
+| Day 31   | Peak Element                      | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/PeakElement.java)
+| Day 32   | K-th element of two Arrays        | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/KthElementofTwoArr.java)
 
 
 ---
