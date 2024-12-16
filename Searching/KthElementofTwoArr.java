@@ -5,7 +5,7 @@ class Solution {
         // System.arraycopy(a, 0, nArr, 0, a.length);
         // System.arraycopy(b, 0, nArr, a.length, b.length);
         // Arrays.sort(nArr);
-         
+        //  
         // return nArr[k-1];
         int i = 0, j = 0, count = 0;
         int kth = 0;
