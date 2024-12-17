@@ -1,6 +1,6 @@
 # 🚀GeeksforGeeks 160 Days Problem-Solving Challenge💻  
 
-![Java](https://img.shields.io/badge/Language-Java-orange)  ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue)  ![Challenge Progress](https://img.shields.io/badge/Progress-30.35%25-brightgreen)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)  ![GitHub repo stars](https://img.shields.io/github/stars/Harivignesh-33/GFG-160?style=social)
+![Java](https://img.shields.io/badge/Language-Java-orange)  ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue)  ![Challenge Progress](https://img.shields.io/badge/Progress-33.35%25-brightgreen)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)  ![GitHub repo stars](https://img.shields.io/github/stars/Harivignesh-33/GFG-160?style=social)
 [![GFG](https://img.shields.io/badge/-GFG-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/harivigne0ic2/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/-hari-k)
 
@@ -104,6 +104,7 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 30   | Search in Rotated Sorted Array    | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/SearchinRSorted.java)
 | Day 31   | Peak Element                      | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/PeakElement.java)
 | Day 32   | K-th element of two Arrays        | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/KthElementofTwoArr.java)
+| Day 32   | Aggressive cows                   | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/AggressiveCows.java)
 
 
 ---
