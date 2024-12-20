@@ -107,6 +107,7 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 33   | Aggressive cows                   | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/AggressiveCows.java)
 | Day 34   | Allocate Minimum Pages            | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/AllocateMinPages.java)
 | Day 35   | Kth missing possitive num in Arr  | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/kthmissPossinArr.java)
+| Day 36   | Spirally traversing a matrix      | Matrix               |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Matrix/SpirallyTraversingMatrix.java)
 
 
 ---
