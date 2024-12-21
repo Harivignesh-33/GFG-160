@@ -1,6 +1,6 @@
 # 🚀GeeksforGeeks 160 Days Problem-Solving Challenge💻  
 
-![Java](https://img.shields.io/badge/Language-Java-orange)  ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue)  ![Challenge Progress](https://img.shields.io/badge/Progress-37.35%25-brightgreen)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)  ![GitHub repo stars](https://img.shields.io/github/stars/Harivignesh-33/GFG-160?style=social)
+![Java](https://img.shields.io/badge/Language-Java-orange)  ![DSA](https://img.shields.io/badge/Topic-Data%20Structures%20%26%20Algorithms-blue)  ![Challenge Progress](https://img.shields.io/badge/Progress-39.35%25-brightgreen)  ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-yellowgreen)  ![GitHub repo stars](https://img.shields.io/github/stars/Harivignesh-33/GFG-160?style=social)
 [![GFG](https://img.shields.io/badge/-GFG-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/harivigne0ic2/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/-hari-k)
 
@@ -108,6 +108,7 @@ This layout uses a combination of **bold text**, **emojis**, and a clean, **two-
 | Day 34   | Allocate Minimum Pages            | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/AllocateMinPages.java)
 | Day 35   | Kth missing possitive num in Arr  | Searching            |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Searching/kthmissPossinArr.java)
 | Day 36   | Spirally traversing a matrix      | Matrix               |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Matrix/SpirallyTraversingMatrix.java)
+| Day 37   | Rotate by 90 degree               | Matrix               |[Solution](https://github.com/Harivignesh-33/GFG-160/blob/main/Matrix/Rotate90Deg.java)
 
 
 ---
